@@ -1,0 +1,15 @@
+C:\Users\bruno.patrocinio\source\repos\SerialTester\SerialTester\bin\Debug\SerialTester.exe.config
+C:\Users\bruno.patrocinio\source\repos\SerialTester\SerialTester\bin\Debug\SerialTester.exe
+C:\Users\bruno.patrocinio\source\repos\SerialTester\SerialTester\bin\Debug\SerialTester.pdb
+C:\Users\bruno.patrocinio\source\repos\SerialTester\SerialTester\obj\Debug\SerialTester.csproj.AssemblyReference.cache
+C:\Users\bruno.patrocinio\source\repos\SerialTester\SerialTester\obj\Debug\SerialTester.csproj.SuggestedBindingRedirects.cache
+C:\Users\bruno.patrocinio\source\repos\SerialTester\SerialTester\obj\Debug\SerialTester.Form1.resources
+C:\Users\bruno.patrocinio\source\repos\SerialTester\SerialTester\obj\Debug\SerialTester.Properties.Resources.resources
+C:\Users\bruno.patrocinio\source\repos\SerialTester\SerialTester\obj\Debug\SerialTester.csproj.GenerateResource.cache
+C:\Users\bruno.patrocinio\source\repos\SerialTester\SerialTester\obj\Debug\SerialTester.csproj.CoreCompileInputs.cache
+C:\Users\bruno.patrocinio\source\repos\SerialTester\SerialTester\obj\Debug\SerialTester.exe
+C:\Users\bruno.patrocinio\source\repos\SerialTester\SerialTester\obj\Debug\SerialTester.pdb
+C:\Users\bruno.patrocinio\source\repos\SerialTester\SerialTester\bin\Debug\SerialTester.exe.manifest
+C:\Users\bruno.patrocinio\source\repos\SerialTester\SerialTester\bin\Debug\SerialTester.application
+C:\Users\bruno.patrocinio\source\repos\SerialTester\SerialTester\obj\Debug\SerialTester.exe.manifest
+C:\Users\bruno.patrocinio\source\repos\SerialTester\SerialTester\obj\Debug\SerialTester.application
